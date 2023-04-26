@@ -20,4 +20,3 @@ This will activate your computer's camera, and the program will begin detecting 
 
 # Contributing
 If you would like to contribute to this project, feel free to submit a pull request. Please make sure to follow the existing coding style and write clear commit messages.
-
