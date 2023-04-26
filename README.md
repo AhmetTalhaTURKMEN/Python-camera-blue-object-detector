@@ -6,7 +6,9 @@ Installation
 To use this project, you will need to have Python 3 installed on your computer. Clone this repository to your local machine, and install the required dependencies by running:
 
 Copy code
+
 <code> pip install opencv-python </code>
+
 Usage
 To use the Blue Object Detector, run the following command in your terminal:
 
