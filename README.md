@@ -7,21 +7,17 @@ To use this project, you will need to have Python 3 installed on your computer. 
 
 Copy code
 
-<code> pip install opencv-python </code>
+``` pip install opencv-python ```
 
 # Usage
 To use the Blue Object Detector, run the following command in your terminal:
 
 Copy code
 
-<code> python blue_object_detector.py </code>
+``` python blue_object_detector.py ```
 
 This will activate your computer's camera, and the program will begin detecting blue objects in the frame. When a blue object is detected, the program will capture an image and save it same folder as the code.
 
 # Contributing
 If you would like to contribute to this project, feel free to submit a pull request. Please make sure to follow the existing coding style and write clear commit messages.
 
-```bash
-cd dosya_yolu
-ls
-```
