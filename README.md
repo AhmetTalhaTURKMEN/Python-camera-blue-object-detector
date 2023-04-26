@@ -8,6 +8,7 @@ To use this project, you will need to have Python 3 installed on your computer. 
 Copy code
 
 ``` 
+git clone https://github.com/AhmetTalhaTURKMEN/Python-camera-blue-object-detector
 pip install opencv-python 
 ```
 
