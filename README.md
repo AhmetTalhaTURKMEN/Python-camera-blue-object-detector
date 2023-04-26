@@ -21,6 +21,12 @@ Copy code
 python blue_object_detector.py 
 ```
 
+or
+
+``` 
+python blue_object_detector_photo.py 
+```
+
 This will activate your computer's camera, and the program will begin detecting blue objects in the frame. When a blue object is detected, the program will capture an image and save it same folder as the code.
 
 # Contributing
